@@ -1,0 +1,6 @@
+# ninja log v5
+1	194	6989270823868125	build.ninja	6bec402f43c1723f
+3	1640	6989143531759889	CMakeFiles/DesayHmiDetector.dir/main.cpp.obj	e4a70a9dee14cff3
+1640	1807	6989143533477771	DesayHmiDetector.exe	db96a693d49c45ea
+4	1639	6989272464195615	CMakeFiles/DesayHmiDetector.dir/main.cpp.obj	e4a70a9dee14cff3
+1639	1846	6989272466224002	DesayHmiDetector.exe	db96a693d49c45ea
